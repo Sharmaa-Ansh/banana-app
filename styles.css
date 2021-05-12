@@ -1,0 +1,11 @@
+#search-bar{
+    display: block;
+    width: 80%;
+    height: 20vh;
+}
+
+button{
+    margin-top: 2rem;
+    height: 5vh;
+    width: 15vh;
+}
